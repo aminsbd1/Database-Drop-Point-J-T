@@ -1,7 +1,7 @@
 # Database-Drop-Point-J-T
 Database Drop Point J&amp;T 
 
-Petunjuk:
+# Petunjuk:
     - Data ada di data.json
     - Gunakan tools https://jsoneditoronline.org/ untuk melihat detail json lebih jelas.
 
